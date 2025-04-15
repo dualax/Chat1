@@ -1,0 +1,56 @@
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\bin\Debug\net8.0\ChatServer.exe
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\bin\Debug\net8.0\ChatServer.deps.json
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\bin\Debug\net8.0\ChatServer.runtimeconfig.json
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\bin\Debug\net8.0\ChatServer.dll
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\bin\Debug\net8.0\ChatServer.pdb
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\obj\Debug\net8.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfo.cs
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\obj\Debug\net8.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\obj\Debug\net8.0\ChatServer.dll
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\obj\Debug\net8.0\refint\ChatServer.dll
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\obj\Debug\net8.0\ChatServer.pdb
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\obj\Debug\net8.0\ChatServer.genruntimeconfig.cache
+C:\Users\Daniil\Desktop\danito\Chat\ChatServer\obj\Debug\net8.0\ref\ChatServer.dll
+C:\Users\Daniil\Desktop\Chat\ChatServer\bin\Debug\net8.0\ChatServer.exe
+C:\Users\Daniil\Desktop\Chat\ChatServer\bin\Debug\net8.0\ChatServer.deps.json
+C:\Users\Daniil\Desktop\Chat\ChatServer\bin\Debug\net8.0\ChatServer.runtimeconfig.json
+C:\Users\Daniil\Desktop\Chat\ChatServer\bin\Debug\net8.0\ChatServer.dll
+C:\Users\Daniil\Desktop\Chat\ChatServer\bin\Debug\net8.0\ChatServer.pdb
+C:\Users\Daniil\Desktop\Chat\ChatServer\obj\Debug\net8.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\Desktop\Chat\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Daniil\Desktop\Chat\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfo.cs
+C:\Users\Daniil\Desktop\Chat\ChatServer\obj\Debug\net8.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Chat\ChatServer\obj\Debug\net8.0\ChatServer.dll
+C:\Users\Daniil\Desktop\Chat\ChatServer\obj\Debug\net8.0\refint\ChatServer.dll
+C:\Users\Daniil\Desktop\Chat\ChatServer\obj\Debug\net8.0\ChatServer.pdb
+C:\Users\Daniil\Desktop\Chat\ChatServer\obj\Debug\net8.0\ChatServer.genruntimeconfig.cache
+C:\Users\Daniil\Desktop\Chat\ChatServer\obj\Debug\net8.0\ref\ChatServer.dll
+F:\Все\Практические ООП\Chat\ChatServer\bin\Debug\net8.0\ChatServer.exe
+F:\Все\Практические ООП\Chat\ChatServer\bin\Debug\net8.0\ChatServer.deps.json
+F:\Все\Практические ООП\Chat\ChatServer\bin\Debug\net8.0\ChatServer.runtimeconfig.json
+F:\Все\Практические ООП\Chat\ChatServer\bin\Debug\net8.0\ChatServer.dll
+F:\Все\Практические ООП\Chat\ChatServer\bin\Debug\net8.0\ChatServer.pdb
+F:\Все\Практические ООП\Chat\ChatServer\obj\Debug\net8.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Все\Практические ООП\Chat\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfoInputs.cache
+F:\Все\Практические ООП\Chat\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfo.cs
+F:\Все\Практические ООП\Chat\ChatServer\obj\Debug\net8.0\ChatServer.csproj.CoreCompileInputs.cache
+F:\Все\Практические ООП\Chat\ChatServer\obj\Debug\net8.0\ChatServer.dll
+F:\Все\Практические ООП\Chat\ChatServer\obj\Debug\net8.0\refint\ChatServer.dll
+F:\Все\Практические ООП\Chat\ChatServer\obj\Debug\net8.0\ChatServer.pdb
+F:\Все\Практические ООП\Chat\ChatServer\obj\Debug\net8.0\ChatServer.genruntimeconfig.cache
+F:\Все\Практические ООП\Chat\ChatServer\obj\Debug\net8.0\ref\ChatServer.dll
+F:\Chat\ChatServer\bin\Debug\net8.0\ChatServer.exe
+F:\Chat\ChatServer\bin\Debug\net8.0\ChatServer.deps.json
+F:\Chat\ChatServer\bin\Debug\net8.0\ChatServer.runtimeconfig.json
+F:\Chat\ChatServer\bin\Debug\net8.0\ChatServer.dll
+F:\Chat\ChatServer\bin\Debug\net8.0\ChatServer.pdb
+F:\Chat\ChatServer\obj\Debug\net8.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Chat\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfoInputs.cache
+F:\Chat\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfo.cs
+F:\Chat\ChatServer\obj\Debug\net8.0\ChatServer.csproj.CoreCompileInputs.cache
+F:\Chat\ChatServer\obj\Debug\net8.0\ChatServer.dll
+F:\Chat\ChatServer\obj\Debug\net8.0\refint\ChatServer.dll
+F:\Chat\ChatServer\obj\Debug\net8.0\ChatServer.pdb
+F:\Chat\ChatServer\obj\Debug\net8.0\ChatServer.genruntimeconfig.cache
+F:\Chat\ChatServer\obj\Debug\net8.0\ref\ChatServer.dll

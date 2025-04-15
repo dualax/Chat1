@@ -1,0 +1,64 @@
+C:\Users\Daniil\Desktop\danito\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Daniil\Desktop\danito\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Daniil\Desktop\danito\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\MVVM\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\Chat_MarkupCompile.cache
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\Chat_MarkupCompile.lref
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\MVVM\View\MainWindow.baml
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\Chat.g.resources
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\Daniil\Desktop\danito\Chat\Chat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniil\Desktop\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Daniil\Desktop\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Daniil\Desktop\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\MVVM\View\MainWindow.g.cs
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\Chat_MarkupCompile.cache
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\Chat_MarkupCompile.lref
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\MVVM\View\MainWindow.baml
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\Chat.g.resources
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Daniil\Desktop\Chat\Chat\obj\Debug\Chat.pdb
+F:\Все\Практические ООП\Chat\Chat\bin\Debug\Chat.exe.config
+F:\Все\Практические ООП\Chat\Chat\bin\Debug\Chat.exe
+F:\Все\Практические ООП\Chat\Chat\bin\Debug\Chat.pdb
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\MVVM\View\MainWindow.g.cs
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\App.g.cs
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\Chat_MarkupCompile.cache
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\Chat_MarkupCompile.lref
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\MVVM\View\MainWindow.baml
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\Chat.g.resources
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\ChatClient.csproj.GenerateResource.cache
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\Chat.exe
+F:\Все\Практические ООП\Chat\Chat\obj\Debug\Chat.pdb
+F:\Chat\Chat\bin\Debug\Chat.exe.config
+F:\Chat\Chat\bin\Debug\Chat.exe
+F:\Chat\Chat\bin\Debug\Chat.pdb
+F:\Chat\Chat\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+F:\Chat\Chat\obj\Debug\MVVM\View\MainWindow.g.cs
+F:\Chat\Chat\obj\Debug\App.g.cs
+F:\Chat\Chat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Chat\Chat\obj\Debug\Chat_MarkupCompile.cache
+F:\Chat\Chat\obj\Debug\Chat_MarkupCompile.lref
+F:\Chat\Chat\obj\Debug\MVVM\View\MainWindow.baml
+F:\Chat\Chat\obj\Debug\Chat.g.resources
+F:\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+F:\Chat\Chat\obj\Debug\ChatClient.csproj.GenerateResource.cache
+F:\Chat\Chat\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+F:\Chat\Chat\obj\Debug\Chat.exe
+F:\Chat\Chat\obj\Debug\Chat.pdb
